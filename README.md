@@ -10,6 +10,7 @@
 #### 制限時間
 1時間
 
+![サンプル](https://github.com/maoslele/hackathon_20200823/blob/master/hackathon_20200823_sample.png)
 * * *
 
 ## 参加結果とその後のリファクタリング
